@@ -91,6 +91,7 @@ This project provides a comprehensive solution for managing and analyzing custom
 ## 👩‍💻 Developed By
 
 **Menna Sayed** – Faculty of Computers and Information 
+
 Project Team: Basant Waleed, Nadine Ibrahim, Yazied Hassan, Ahmed Yousef  
 Supervised by: **Ministry of Communications and Information Technology – NTI/DEPI Program**
 
